@@ -20,4 +20,3 @@
 (require 'dockerfile-mode)
 
 (setq dockerfile-mode-command "docker")
-
