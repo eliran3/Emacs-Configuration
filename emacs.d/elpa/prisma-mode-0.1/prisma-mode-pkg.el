@@ -1,0 +1,2 @@
+;;; Generated package description from prisma-mode-0.1/prisma-mode.el  -*- no-byte-compile: t -*-
+(define-package "prisma-mode" "0.1" "A major mode for editing Prisma data model files." '((emacs "26.1") (js2-mode "20211201.1250")) :authors '((nil . "Julius de Bruijn ( bruijn@prisma.io )")) :maintainer '(nil . "Julius de Bruijn ( bruijn@prisma.io )") :keywords '("languages") :url "https://github.com/prisma/emacs-prisma-mode/")

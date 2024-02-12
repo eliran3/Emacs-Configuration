@@ -1,0 +1,2 @@
+;;; Generated package description from lsp-prisma-0.0.1/lsp-prisma.el  -*- no-byte-compile: t -*-
+(define-package "lsp-prisma" "0.0.1" "Description" '((emacs "24.3")) :authors '(("Harshit Pant <https://github.com/pantharshit00>")) :maintainer '("Harshit Pant" . "pantharshit00@gmail.com") :keywords '("symbol\342\200\231s" "value" "as" "variable" "is" "void:" "finder-known-keywords") :url "https://github.com/pimeys/emacs-prisma-mode/")
