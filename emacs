@@ -5,7 +5,9 @@
  ;; If there is more than one, they won't work right.
  '(custom-enabled-themes '(gruber-darker))
  '(custom-safe-themes
-   '("db2aff20caf2b09e8f3c1f4a36c136c8dfeb8d02e1d0980e7daff2a0196d7fab" default)))
+   '("db2aff20caf2b09e8f3c1f4a36c136c8dfeb8d02e1d0980e7daff2a0196d7fab" default))
+ '(package-selected-packages
+   '(el-get zig-mode reformatter yaml-mode typescript-mode dockerfile-mode)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
